@@ -1,7 +1,265 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Age,Gender,Race,Education Attainment,Employment Status,Units,Value
+2010,,,,,,Percent by Age,14.3
+2010,Under 18 years,,,,,Percent by Age,6.1
+2010,18 to 64 years,,,,,Percent by Age,17.7
+2010,65 years and over,,,,,Percent by Age,1.3
+2010,,,,,,Percent by Gender,14.3
+2010,,Male,,,,Percent by Gender,13.7
+2010,,Female,,,,Percent by Gender,15
+2010,,,,,,Percent by Race,14.3
+2010,,,White,,,Percent by Race,15.3
+2010,,,Black or African American,,,Percent by Race,12.6
+2010,,,American Indian and Alaska Native,,,Percent by Race,9.3
+2010,,,Asian,,,Percent by Race,9.7
+2010,,,Hispanic or Latino origin (any race),,,Percent by Race,17.7
+2010,,,,,,Percent by Education,3.6
+2010,,,,Less than High School,,Percent by Education,9.2
+2010,,,,High School Graduate,,Percent by Education,3.7
+2010,,,,Some College or Associate degree,,Percent by Education,4.8
+2010,,,,Bachelor's Degree or Higher,,Percent by Education,2.7
+2010,,,,,,Percentage by Employment,17.4
+2010,,,,,Employed (full-time),Percentage by Employment,0.5
+2010,,,,,Worked less than full time,Percentage by Employment,23.5
+2010,,,,,Unemployed,Percentage by Employment,31.1
+2011,,,,,,Percent by Age,15
+2011,Under 18 years,,,,,Percent by Age,5.2
+2011,18 to 64 years,,,,,Percent by Age,18.7
+2011,65 years and over,,,,,Percent by Age,1.3
+2011,,,,,,Percent by Gender,15
+2011,,Male,,,,Percent by Gender,14.8
+2011,,Female,,,,Percent by Gender,15.3
+2011,,,,,,Percent by Race,15
+2011,,,White,,,Percent by Race,16.3
+2011,,,Black or African American,,,Percent by Race,13.2
+2011,,,American Indian and Alaska Native,,,Percent by Race,7.6
+2011,,,Asian,,,Percent by Race,6.5
+2011,,,Hispanic or Latino origin (any race),,,Percent by Race,22.2
+2011,,,,,,Percent by Education,3.9
+2011,,,,Less than High School,,Percent by Education,10.5
+2011,,,,High School Graduate,,Percent by Education,2.4
+2011,,,,Some College or Associate degree,,Percent by Education,5.8
+2011,,,,Bachelor's Degree or Higher,,Percent by Education,3.1
+2011,,,,,,Percentage by Employment,18.3
+2011,,,,,Employed (full-time),Percentage by Employment,0.5
+2011,,,,,Worked less than full time,Percentage by Employment,24.4
+2011,,,,,Unemployed,Percentage by Employment,33.9
+2012,,,,,,Percent by Age,15.2
+2012,Under 18 years,,,,,Percent by Age,4
+2012,18 to 64 years,,,,,Percent by Age,19.3
+2012,65 years and over,,,,,Percent by Age,1.1
+2012,,,,,,Percent by Gender,15.2
+2012,,Male,,,,Percent by Gender,14.6
+2012,,Female,,,,Percent by Gender,15.8
+2012,,,,,,Percent by Race,15.2
+2012,,,White,,,Percent by Race,16.3
+2012,,,Black or African American,,,Percent by Race,14.1
+2012,,,American Indian and Alaska Native,,,Percent by Race,22.9
+2012,,,Asian,,,Percent by Race,7.6
+2012,,,Hispanic or Latino origin (any race),,,Percent by Race,22
+2012,,,,,,Percent by Education,3.4
+2012,,,,Less than High School,,Percent by Education,11.7
+2012,,,,High School Graduate,,Percent by Education,2
+2012,,,,Some College or Associate degree,,Percent by Education,1.8
+2012,,,,Bachelor's Degree or Higher,,Percent by Education,2.6
+2012,,,,,,Percentage by Employment,18.8
+2012,,,,,Employed (full-time),Percentage by Employment,0.4
+2012,,,,,Worked less than full time,Percentage by Employment,24.7
+2012,,,,,Unemployed,Percentage by Employment,35.9
+2013,,,,,,Percent by Age,16.6
+2013,Under 18 years,,,,,Percent by Age,6.3
+2013,18 to 64 years,,,,,Percent by Age,20.7
+2013,65 years and over,,,,,Percent by Age,1
+2013,,,,,,Percent by Gender,16.6
+2013,,Male,,,,Percent by Gender,16.1
+2013,,Female,,,,Percent by Gender,17
+2013,,,,,,Percent by Race,16.6
+2013,,,White,,,Percent by Race,17.6
+2013,,,Black or African American,,,Percent by Race,16.1
+2013,,,American Indian and Alaska Native,,,Percent by Race,33.6
+2013,,,Asian,,,Percent by Race,10.5
+2013,,,Hispanic or Latino origin (any race),,,Percent by Race,16.3
+2013,,,,,,Percent by Education,3.8
+2013,,,,Less than High School,,Percent by Education,8.6
+2013,,,,High School Graduate,,Percent by Education,3.1
+2013,,,,Some College or Associate degree,,Percent by Education,5.7
+2013,,,,Bachelor's Degree or Higher,,Percent by Education,2.8
+2013,,,,,,Percentage by Employment,20.1
+2013,,,,,Employed (full-time),Percentage by Employment,0.4
+2013,,,,,Worked less than full time,Percentage by Employment,25.5
+2013,,,,,Unemployed,Percentage by Employment,39.9
+2014,,,,,,Percent by Age,19
+2014,Under 18 years,,,,,Percent by Age,9.4
+2014,18 to 64 years,,,,,Percent by Age,23
+2014,65 years and over,,,,,Percent by Age,1.2
+2014,,,,,,Percent by Gender,19
+2014,,Male,,,,Percent by Gender,19
+2014,,Female,,,,Percent by Gender,18.9
+2014,,,,,,Percent by Race,19
+2014,,,White,,,Percent by Race,19.8
+2014,,,Black or African American,,,Percent by Race,20.3
+2014,,,American Indian and Alaska Native,,,Percent by Race,80.2
+2014,,,Asian,,,Percent by Race,10.1
+2014,,,Hispanic or Latino origin (any race),,,Percent by Race,15.8
+2014,,,,,,Percent by Education,4.6
+2014,,,,Less than High School,,Percent by Education,13
+2014,,,,High School Graduate,,Percent by Education,5.1
+2014,,,,Some College or Associate degree,,Percent by Education,6.2
+2014,,,,Bachelor's Degree or Higher,,Percent by Education,3.2
+2014,,,,,,Percentage by Employment,22.7
+2014,,,,,Employed (full-time),Percentage by Employment,0.4
+2014,,,,,Worked less than full time,Percentage by Employment,29.6
+2014,,,,,Unemployed,Percentage by Employment,43.2
+2015,,,,,,Percent by Age,19.8
+2015,Under 18 years,,,,,Percent by Age,10.5
+2015,18 to 64 years,,,,,Percent by Age,24.1
+2015,65 years and over,,,,,Percent by Age,1.7
+2015,,,,,,Percent by Gender,19.8
+2015,,Male,,,,Percent by Gender,19.1
+2015,,Female,,,,Percent by Gender,20.4
+2015,,,,,,Percent by Race,19.8
+2015,,,White,,,Percent by Race,20.3
+2015,,,Black or African American,,,Percent by Race,22.6
+2015,,,American Indian and Alaska Native,,,Percent by Race,61.9
+2015,,,Asian,,,Percent by Race,10
+2015,,,Hispanic or Latino origin (any race),,,Percent by Race,8.6
+2015,,,,,,Percent by Education,5.5
+2015,,,,Less than High School,,Percent by Education,17.2
+2015,,,,High School Graduate,,Percent by Education,5.3
+2015,,,,Some College or Associate degree,,Percent by Education,6.5
+2015,,,,Bachelor's Degree or Higher,,Percent by Education,4.2
+2015,,,,,,Percentage by Employment,23.6
+2015,,,,,Employed (full-time),Percentage by Employment,0.5
+2015,,,,,Worked less than full time,Percentage by Employment,31.6
+2015,,,,,Unemployed,Percentage by Employment,44
+2016,,,,,,Percent by Age,19.2
+2016,Under 18 years,,,,,Percent by Age,10.6
+2016,18 to 64 years,,,,,Percent by Age,23.4
+2016,65 years and over,,,,,Percent by Age,1.6
+2016,,,,,,Percent by Gender,19.2
+2016,,Male,,,,Percent by Gender,19.2
+2016,,Female,,,,Percent by Gender,19.2
+2016,,,,,,Percent by Race,19.2
+2016,,,White,,,Percent by Race,19.4
+2016,,,Black or African American,,,Percent by Race,21.8
+2016,,,American Indian and Alaska Native,,,Percent by Race,82
+2016,,,Asian,,,Percent by Race,13
+2016,,,Hispanic or Latino origin (any race),,,Percent by Race,4
+2016,,,,,,Percent by Education,5.5
+2016,,,,Less than High School,,Percent by Education,18.1
+2016,,,,High School Graduate,,Percent by Education,5.7
+2016,,,,Some College or Associate degree,,Percent by Education,6
+2016,,,,Bachelor's Degree or Higher,,Percent by Education,3.9
+2016,,,,,,Percentage by Employment,23
+2016,,,,,Employed (full-time),Percentage by Employment,1
+2016,,,,,Worked less than full time,Percentage by Employment,30.1
+2016,,,,,Unemployed,Percentage by Employment,44.2
+2017,,,,,,Percent by Age,19.6
+2017,Under 18 years,,,,,Percent by Age,12.4
+2017,18 to 64 years,,,,,Percent by Age,23.8
+2017,65 years and over,,,,,Percent by Age,1.5
+2017,,,,,,Percent by Gender,19.6
+2017,,Male,,,,Percent by Gender,19.3
+2017,,Female,,,,Percent by Gender,20
+2017,,,,,,Percent by Race,19.6
+2017,,,White,,,Percent by Race,19.5
+2017,,,Black or African American,,,Percent by Race,23.9
+2017,,,American Indian and Alaska Native,,,Percent by Race,23.4
+2017,,,Asian,,,Percent by Race,12.7
+2017,,,Hispanic or Latino origin (any race),,,Percent by Race,4.5
+2017,,,,,,Percent by Education,6.2
+2017,,,,Less than High School,,Percent by Education,19
+2017,,,,High School Graduate,,Percent by Education,6.7
+2017,,,,Some College or Associate degree,,Percent by Education,7.5
+2017,,,,Bachelor's Degree or Higher,,Percent by Education,4.2
+2017,,,,,,Percentage by Employment,23.3
+2017,,,,,Employed (full-time),Percentage by Employment,1.2
+2017,,,,,Worked less than full time,Percentage by Employment,31.8
+2017,,,,,Unemployed,Percentage by Employment,44
+2018,,,,,,Percent by Age,19.5
+2018,Under 18 years,,,,,Percent by Age,11.6
+2018,18 to 64 years,,,,,Percent by Age,23.7
+2018,65 years and over,,,,,Percent by Age,1.5
+2018,,,,,,Percent by Gender,19.5
+2018,,Male,,,,Percent by Gender,19.7
+2018,,Female,,,,Percent by Gender,19.3
+2018,,,,,,Percent by Race,19.5
+2018,,,White,,,Percent by Race,19.1
+2018,,,Black or African American,,,Percent by Race,24.8
+2018,,,American Indian and Alaska Native,,,Percent by Race,22.4
+2018,,,Asian,,,Percent by Race,10.1
+2018,,,Hispanic or Latino origin (any race),,,Percent by Race,6.6
+2018,,,,,,Percent by Education,6.2
+2018,,,,Less than High School,,Percent by Education,21.8
+2018,,,,High School Graduate,,Percent by Education,6
+2018,,,,Some College or Associate degree,,Percent by Education,7.3
+2018,,,,Bachelor's Degree or Higher,,Percent by Education,4.3
+2018,,,,,,Percentage by Employment,23.4
+2018,,,,,Employed (full-time),Percentage by Employment,1.1
+2018,,,,,Worked less than full time,Percentage by Employment,32.5
+2018,,,,,Unemployed,Percentage by Employment,45.9
+2019,,,,,,Percent by Age,18.5
+2019,Under 18 years,,,,,Percent by Age,10.2
+2019,18 to 64 years,,,,,Percent by Age,22.7
+2019,65 years and over,,,,,Percent by Age,2.7
+2019,,,,,,Percent by Gender,18.5
+2019,,Male,,,,Percent by Gender,18.1
+2019,,Female,,,,Percent by Gender,18.9
+2019,,,,,,Percent by Race,18.5
+2019,,,White,,,Percent by Race,18.1
+2019,,,Black or African American,,,Percent by Race,23
+2019,,,American Indian and Alaska Native,,,Percent by Race,22.4
+2019,,,Asian,,,Percent by Race,9.4
+2019,,,Hispanic or Latino origin (any race),,,Percent by Race,7.9
+2019,,,,,,Percent by Education,5.8
+2019,,,,Less than High School,,Percent by Education,17
+2019,,,,High School Graduate,,Percent by Education,5.4
+2019,,,,Some College or Associate degree,,Percent by Education,7.7
+2019,,,,Bachelor's Degree or Higher,,Percent by Education,4
+2019,,,,,,Percentage by Employment,22.2
+2019,,,,,Employed (full-time),Percentage by Employment,1.3
+2019,,,,,Worked less than full time,Percentage by Employment,30.4
+2019,,,,,Unemployed,Percentage by Employment,45.3
+2020,,,,,,Percent by Age,17.2
+2020,Under 18 years,,,,,Percent by Age,7.4
+2020,18 to 64 years,,,,,Percent by Age,21.4
+2020,65 years and over,,,,,Percent by Age,5.5
+2020,,,,,,Percent by Gender,17.2
+2020,,Male,,,,Percent by Gender,16.7
+2020,,Female,,,,Percent by Gender,17.7
+2020,,,,,,Percent by Race,17.2
+2020,,,White,,,Percent by Race,17.8
+2020,,,Black or African American,,,Percent by Race,18
+2020,,,American Indian and Alaska Native,,,Percent by Race,13.2
+2020,,,Asian,,,Percent by Race,8.2
+2020,,,Hispanic or Latino origin (any race),,,Percent by Race,16.7
+2020,,,,,,Percent by Education,6.5
+2020,,,,Less than High School,,Percent by Education,12.1
+2020,,,,High School Graduate,,Percent by Education,8.1
+2020,,,,Some College or Associate degree,,Percent by Education,11.5
+2020,,,,Bachelor's Degree or Higher,,Percent by Education,3.7
+2020,,,,,,Percentage by Employment,21.1
+2020,,,,,Employed (full-time),Percentage by Employment,1.7
+2020,,,,,Worked less than full time,Percentage by Employment,29.1
+2020,,,,,Unemployed,Percentage by Employment,43.6
+2021,,,,,,Percent by Age,16.7
+2021,Under 18 years,,,,,Percent by Age,8.9
+2021,18 to 64 years,,,,,Percent by Age,20.8
+2021,65 years and over,,,,,Percent by Age,4.3
+2021,,,,,,Percent by Gender,16.7
+2021,,Male,,,,Percent by Gender,16
+2021,,Female,,,,Percent by Gender,17.4
+2021,,,,,,Percent by Race,16.7
+2021,,,White,,,Percent by Race,16.9
+2021,,,Black or African American,,,Percent by Race,19.1
+2021,,,American Indian and Alaska Native,,,Percent by Race,9.8
+2021,,,Asian,,,Percent by Race,6.8
+2021,,,Hispanic or Latino origin (any race),,,Percent by Race,17.8
+2021,,,,,,Percent by Education,7.1
+2021,,,,Less than High School,,Percent by Education,9
+2021,,,,High School Graduate,,Percent by Education,7.4
+2021,,,,Some College or Associate degree,,Percent by Education,15.6
+2021,,,,Bachelor's Degree or Higher,,Percent by Education,3.6
+2021,,,,,,Percentage by Employment,20.4
+2021,,,,,Employed (full-time),Percentage by Employment,1.5
+2021,,,,,Worked less than full time,Percentage by Employment,28.8
+2021,,,,,Unemployed,Percentage by Employment,43
